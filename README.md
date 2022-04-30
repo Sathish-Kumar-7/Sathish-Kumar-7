@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Sathish Kumar
 
-- 💻 I’m currently learning Android Development With Kotlin
+- 💻 I’m currently learning DSA in Java
 
  <a href="https://github.com/Sathish-Kumar-7"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathish-Kumar-7&layout=compact&theme=buefy&hide_border=true" /></a> 
 
