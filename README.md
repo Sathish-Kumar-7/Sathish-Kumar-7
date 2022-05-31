@@ -13,5 +13,10 @@
 </a>
 
 <a href="https://t.me/SathishKumar07">
-  <img align="left" alt="Sathish Kumar | Twitter" width="21px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" />
+  <img align="left" alt="Sathish Kumar | Telegram" width="21px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" />
+</a>
+
+
+<a href="https://www.linkedin.com/in/sathish-kumar-hs">
+  <img align="left" alt="Sathish Kumar | LinkedIn" width="21px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />
 </a>
